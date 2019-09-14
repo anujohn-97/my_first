@@ -6,6 +6,6 @@ int main(void)
 { 
   rrr=malloc(sizeof(void **));
   *rrr=strdup("bbb");
-  free(rrr);
+  free
   return 0;
 }
