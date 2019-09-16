@@ -19,4 +19,11 @@ class Batsmen
 
 void Batsmen()::score()
 {
+  IPL();
+  ICC();
+  WC();
+  ODI();
+}
+
+
 
