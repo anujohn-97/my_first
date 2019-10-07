@@ -1,0 +1,1 @@
+cmd_/home/student/anu_kernel/hello.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/student/anu_kernel/hello.ko /home/student/anu_kernel/hello.o /home/student/anu_kernel/hello.mod.o
